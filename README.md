@@ -7,8 +7,8 @@
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/handokota">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handokota&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handokota&layout=compact&hide_border=true&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=handokota&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handokota&layout=compact&hide_border=true&langs_count=8&theme=transparent"/>
 </a>
 </p>
 
