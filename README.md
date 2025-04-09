@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Handoko.
 
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: handokota@protonmail.com
 - ⚡ Fun fact: Fan of the MCU
 
@@ -14,8 +14,9 @@
 
 ### Reach me on
 - <a href="https://linkedin.com/in/handokota/">LinkedIn</a>
-- handokota@protonmail.com
 - <a href="https://twitter/handokota">Twitter</a>
+- <a href="https://www.instagram.com/handokota/">Instagram</a>
+- handokota@protonmail.com
 
 <!--
 **handokota/handokota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
