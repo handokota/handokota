@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: handokota@protonmail.com
-- ⚡ Fun fact: Fan of the MCU
+- ⚡ Fun fact: Fan of the MCU & F1
 
 ### Github Statistic
 <p align="left">
