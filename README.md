@@ -16,7 +16,7 @@
 - <a href="https://linkedin.com/in/handokota/">LinkedIn</a>
 - <a href="https://twitter/handokota">Twitter</a>
 - <a href="https://www.instagram.com/handokota/">Instagram</a>
-- handokota@protonmail.com
+- me@handokota.com
 
 <!--
 **handokota/handokota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
